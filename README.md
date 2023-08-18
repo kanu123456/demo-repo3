@@ -6,3 +6,6 @@ Hi
 
 ##### Local development
 new feature branch
+
+### Quick test
+understanding merge conflicts
